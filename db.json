@@ -1,0 +1,52 @@
+{
+  "vehicles": [
+    {
+      "id": "1",
+      "image": "https://images.pexels.com/photos/2920064/pexels-photo-2920064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla",
+      "price": 20000,
+      "mileage": 15000,
+      "color": "White",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "A reliable family car"
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Ford Mustang",
+      "price": "$35,000",
+      "mileage": "8,000 miles",
+      "color": "WhiBlue",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Manual",
+      "description": "Classic American muscle car"
+    },
+    {
+      "id": "74d8",
+      "image": "https://th.bing.com/th/id/R.0c722b203260d2fa88f170e465adbc24?rik=nmFm1JA2rT4pFw&riu=http%3a%2f%2fimages.driverside.com%2fimages%2fcms%2f1%2f1861_original.jpg&ehk=E%2bwdbiLaEyYKIAuBxv7ZmONLWxdXYYBjYk%2bA7fskOXY%3d&risl=1&pid=ImgRaw&r=0",
+      "name": "Hyundai",
+      "price": 20500,
+      "mileage": 14997,
+      "color": "Bule",
+      "seats": 4,
+      "fuel": "Petrol",
+      "gear": "Manual",
+      "description": "A reliable family car "
+    },
+    {
+      "id": "b9a5",
+      "image": "https://th.bing.com/th/id/OIP.Ddrn76R4x07_V3ZKJNbtywHaEK?w=323&h=181&c=7&r=0&o=5&pid=1.7",
+      "name": "Farari",
+      "price": 56890,
+      "mileage": 1679,
+      "color": "bule",
+      "seats": 2,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "Classic American muscle car"
+    }
+  ]
+}
